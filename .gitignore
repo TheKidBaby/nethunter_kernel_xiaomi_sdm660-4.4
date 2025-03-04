@@ -123,4 +123,7 @@ android/configs/android-*.cfg
 #
 Android.bp
 
+#git ignore kali-nethunter-kernel-builder
+kali-nethunter-kernel-builder/
+
 /out
